@@ -1,0 +1,318 @@
+@media(max-width: 1250px) {
+    /*==========Core-Team========*/
+    .core_team_block {
+        width: 100%;
+    }
+}
+
+@media(max-width: 1200px) {
+    /*=========header_nav-content=========*/
+    header {
+        padding: 5px 50px;
+    }
+    .canvas_first_items_hover_block {
+        top: 0!important;
+        left: 0!important;
+        right: auto!important;
+    }
+    /*=====HowWork======*/
+    .how_work::after,.how_work::before {
+        display: none;
+    }
+}
+
+@media (max-width: 1009px) {
+    /*=============Blockchain_Platform_Section_MEDIA-START=====*/
+    .left_inner p, .right_inner p {
+        font-size: 17px;
+    }
+}
+
+@media(min-width: 992px) {
+    /*=========header_nav-content=========*/
+    .responsive_menu_toggle {
+        display: none;
+    }
+    .logo .header_menu {
+        display: none;
+    }
+}
+
+@media(max-width: 992px) {
+    /*=========header_nav-content=========*/
+    .header_menu-block .header_menu {
+        display: none;
+    }
+    .header_menu-block {
+        max-width: auto;
+        width: auto;
+    }
+    .header_menu {
+        width: auto;
+    }
+    /*===========*/
+    .about_box_line {
+        display: none;
+    }
+    /*=============Header_block-content========*/
+    .header_block_content {
+        flex-direction: column;
+        align-items: center;
+    }
+    .header_block_left_block {
+        margin-bottom: 30px;
+    }
+
+
+    /*============PopUp===========*/
+    .popup_block {
+        height: 100%;
+    }
+}
+
+@media (max-width: 913px) {
+    /*=============Blockchain_Platform_Section_MEDIA-START=====*/
+    .left_inner p, .right_inner p {
+        font-size: 16px;
+    }
+    /*==============Premium_features============*/
+    .premium_account_content_block {
+        flex-direction: column;
+        align-items: center;
+    }
+    .premium_account_items {
+        margin-right: 0;
+    }
+}
+
+@media(max-width: 768px) {
+    /*=======================Token-Sale=========================*/
+    .canvas_row {
+        flex-direction: column;
+        align-items: center;
+    }
+    .canvas_first, .canvas_second {
+        margin-top: 30px;
+    }
+    /*=============Blockchain_Section_MEDIA-START=====*/
+    .blockchain_info_text {
+        font-size: 20px;
+    }
+    .media_t {
+        font-size: 25px;
+    }
+    /*=============Blockchain_Platform_Section_MEDIA-START=====*/
+    .left_inner p, .right_inner p {
+        font-size: 24px;
+    }
+    .blockchain_platform_inner {
+        flex-direction: column;
+    }
+    .platform_inner_left, .platform_inner_right {
+        width: 100%;
+    }
+    .platform_inner_left {
+        margin-bottom: 20px;
+    }
+    .faq_block {
+        min-height: 200px;
+        margin-top: 70px;
+        margin-bottom: 25px;
+    }
+    /*==============footer============*/
+    .footer_menu li {
+        font-size: 14px;
+    }
+    footer .social_row_block ul {
+        margin: 50px auto 10px;
+    }
+    /*=============About_Section_MEDIA-START=====*/
+    .about_boxs {
+        flex-direction: column;
+    }
+    .about_box_line {
+        display: none;
+    }
+    .make_content, .uplouad {
+        margin-bottom: 35px;
+    }
+    .blockchain_info {
+        margin-bottom: 200px;
+    }
+    .faq_block h2 {
+        margin-bottom: 0;
+    }
+    /*======token Sale============*/
+    .token_sale {
+        margin-top: 100px;
+    }
+}
+
+@media(max-width: 576px) {
+    /*=========header_nav-content=========*/
+    header {
+        padding: 5px 20px;
+    }
+    .header_btn button {
+        width: 100px;
+    }
+    /*=============Header_block-content========*/
+    .header_block_left_block_title {
+        font-size: 55px;
+        text-align: center;
+    }
+    .header_block_left_block_text {
+        font-size: 25px;
+    }
+    .header_block_left_block_subtitle {
+        font-size: 35px;
+    }
+    .header_block_left_form button {
+        width: 130px;
+    }
+    .header_block_left_form input {
+        padding: 0 145px 0 15px;
+    }
+    .whitepaper_btn_row {
+        flex-direction: column;
+        align-items: center;
+    }
+    .whitepaper_btn_row button:first-child {
+        margin-bottom: 25px;
+    }
+    .social_row_block::after {
+        display: none;
+    }
+    .social_row_block ul {
+        margin-bottom: 15px;
+    }
+    .header_block_right_block_title {
+        font-size: 34px;
+    }
+    /*==================platform adult entertainment==============*/
+    .platform_adult_entertainment h2 {
+        font-size: 25px;
+    }
+    .platform_adult_entertainment_items_row {
+        flex-direction: column;
+        align-items: center;
+    }
+    .platform_adult_entertainment_items {
+        margin-right: 0;
+    }
+    /*==============Token-Sale==============*/
+    .token_sale_items_block {
+        flex-wrap: nowrap;
+        flex-direction: column;
+        align-items: center;
+    }
+    .token_sale_items {
+        margin-right: 0;
+    }
+    /*=============About_Section_MEDIA-START=====*/
+    .about_text p {
+        font-size: 14px;
+    }
+    .about_text h3 {
+        font-size: 34px;
+        line-height: 1;
+    }
+    .blockchain_text {
+        font-size: 14px;
+    }
+    /*=============Blockchain_Section_MEDIA-START=====*/
+    .blockchain_info {
+        flex-direction: column;
+    }
+    .blockchain_info_inner {
+        width: 100%;
+    }
+    .blockchain_text {
+        margin-bottom: 70px;
+    }
+    .blockchain_info {
+        margin-bottom: 50px;
+    }
+    .blockchain_platform_inner {
+        margin-bottom: 100px;
+    }
+    .platform_adult_entertainment_items_row {
+        margin-top: 50px;
+    }
+    .platform_adult_entertainment_items_icon {
+        min-height: 100px;
+    }
+    .platform_adult_entertainment_items {
+        margin-top: 45px;
+    }
+    .token_sale .container:first-child {
+        min-height: 250px;
+    }
+    /*=============Blockchain_Platform_Section_MEDIA-START=====*/
+    .left_inner p, .right_inner p {
+        font-size: 15px;
+    }
+    /*=======================Premium-Account===========================*/
+    .premium_account_block::before, .premium_account_block::after {
+        display: none;
+    }
+    /*===============core_team_items==================*/
+    .core_team_items {
+        max-width: 360px;
+        width: 100%;
+    }
+    /*===========RoadMap========*/
+    .road_map_block_title {
+        margin-top: 100px;
+    }
+    /*==============footer=============*/
+    .social_row_block::after {
+        display: none;
+    }
+    .social_row_block ul {
+        margin-bottom: 15px;
+    }
+    .footer_menu ul {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .footer_menu li {
+        margin-bottom: 15px;
+    }
+    .footer {
+        margin-bottom: 25px;
+    }
+    .sections_titles {
+        font-size: 35px;
+    }
+    .core_team_items {
+        background-size: cover;
+        background-position: right;
+    }
+    .token_sale_title {
+        margin-bottom: 30px;
+    }
+    .core_team_hover_effect p {
+        font-size: 16px;
+    }
+    .core_team_hover_effect span {
+        margin-top: 60px;
+    }
+    .core_team_hover_effect {
+        left: 20px;
+        right: 20px;
+    }
+    .core_team_items {
+        height: 400px;
+    }
+    .about_amastar_menu_block {
+        border: none;
+    }
+    .about_amastar {
+        padding: 47px 15px;
+    }
+    .footer {
+        margin-top: 100px;
+    }
+}

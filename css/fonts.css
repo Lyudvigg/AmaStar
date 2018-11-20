@@ -1,0 +1,36 @@
+/*===============Montserrat==============*/
+
+@font-face {
+    font-family: 'Mon_Bold';
+    src: url(../font/montserrat/Montserrat-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Mon_ExtraBold';
+    src: url(../font/montserrat/Montserrat-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: 'Mon_Light';
+    src: url(../font/montserrat/Montserrat-Light.ttf);
+}
+
+@font-face {
+    font-family: 'Mon_Medium';
+    src: url(../font/montserrat/Montserrat-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'Mon_Regular';
+    src: url(../font/montserrat/Montserrat-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Mon_SemiBold';
+    src: url(../font/montserrat/Montserrat-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: 'Mon_Thin';
+    src: url(../font/montserrat/Montserrat-Thin.ttf);
+}
