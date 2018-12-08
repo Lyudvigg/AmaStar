@@ -10,7 +10,7 @@ $(document).ready(function () {
 
     $('.countdown').downCount({
         /*month/day/years*/
-        date: '11/25/2018 24:00:00',
+        date: '11/25/2020 24:00:00',
         offset: +3
     }, function () {
         alert('Время уже заполнено!');
